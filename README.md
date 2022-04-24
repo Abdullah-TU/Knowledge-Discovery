@@ -2,3 +2,5 @@
 - association analysis
 - classification
 - Clustering
+- Sequential pattern mining
+- Density-based clustering
