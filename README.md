@@ -6,3 +6,4 @@
 - Density-based clustering
 - Rule-based classification
 - Preprocessing
+- Graph mining
