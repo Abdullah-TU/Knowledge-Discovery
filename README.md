@@ -4,4 +4,4 @@
 - Clustering
 - Sequential pattern mining
 - Density-based clustering
-
+- Rule-based classification
